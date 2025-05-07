@@ -126,4 +126,3 @@ print(f"BSM Price: {price:.4f}")
 for step in n_step:
     CRR_price = CRR_Pricing(S, K, T, r, sigma, step, call)
     print(f"CRR Price {step}: {CRR_price:.4f}")
-

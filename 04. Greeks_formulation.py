@@ -142,4 +142,3 @@ def vega_LRM(S, K, sigma, r, T, n_step, path, call=True):
 
 vega_lrm = vega_LRM(S, K, sigma, r, T, n_step, path, call=True)
 print(f"LRM Vega: {vega_lrm:.4f}")
-

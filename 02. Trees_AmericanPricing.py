@@ -51,5 +51,3 @@ n_step = [10, 100, 1000]
 for step in n_step:
     CRR_price = CRR_american(S, K, T, r, sigma, step, call)
     print(f"CRR American Price {step}: {CRR_price:.4f}")
-
-

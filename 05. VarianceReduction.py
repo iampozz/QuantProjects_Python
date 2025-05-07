@@ -117,4 +117,3 @@ var_anti = np.var(antithetic_prices)
 
 print(f"Standard MC - Mean: {mean_std:.4f}, Variance: {var_std:.6f}")
 print(f"Antithetic MC - Mean: {mean_anti:.4f}, Variance: {var_anti:.6f}")
-

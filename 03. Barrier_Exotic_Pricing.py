@@ -323,4 +323,3 @@ def worst_of_option_price(prices, K_vec, r, T, call=True):
 
 worst_of_price = worst_of_option_price(prices, K_vec, r, T, call)
 print(f"Worst-of Call Option Price: {worst_of_price:.4f}")
-

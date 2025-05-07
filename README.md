@@ -55,3 +55,4 @@ The code and development are guided by practical modeling experience and rigorou
   - Greeks calculation
   - Structured products and path-dependent payoffs
   - Calibration tools and implied volatility extraction
+- 
